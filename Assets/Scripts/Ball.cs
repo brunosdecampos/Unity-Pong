@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Ball : MonoBehaviour {
-
+	
 	private Vector3 direction;
 	private float speed = 4f;
 	private float ballYAxisPosition, ballYAxisDirection, ballXAxisDirection;
