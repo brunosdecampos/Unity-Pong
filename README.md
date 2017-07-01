@@ -1,7 +1,6 @@
 # Atari's Pong Game
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/brunosdecampos/Unity-Pong/master/Assets/Previews/Game.jpg" width="400" hspace="10" vspace="10" />
 <img src="https://raw.githubusercontent.com/brunosdecampos/Unity-Pong/master/Assets/Previews/Winner.jpg" width="400" hspace="10" vspace="10" />
 </p>
 
